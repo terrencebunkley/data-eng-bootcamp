@@ -1,4 +1,7 @@
 # TWSG Data Engineering Bootcamp
+#### Software Prerequisites
+- Homebrew (MacOS)
+- Docker for Mac
 
 ### Setup
 - Fork and clone repo
@@ -7,7 +10,7 @@
 
 If you encounter any problems during the setup or during the labs, check our [troubleshooting guide](./troubleshooting-faq.md).
 
-#### Prerequisites
+#### IDE Prerequisites
 - An IDE (IntelliJ is recommended)
 
 ### Lab: HDFS
