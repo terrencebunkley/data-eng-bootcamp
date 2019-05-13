@@ -1,7 +1,7 @@
 # TWSG Data Engineering Bootcamp
 #### Software Prerequisites
 - Homebrew (MacOS)
-- Docker for Mac
+- [Docker for Mac](https://docs.docker.com/v17.12/docker-for-mac/install/)
 
 ### Setup
 - Fork and clone repo
